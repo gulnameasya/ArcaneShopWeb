@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Build folders
+out/
+build/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# Local configuration
+*.env
+
+# Generated files
+dependency-reduced-pom.xml
